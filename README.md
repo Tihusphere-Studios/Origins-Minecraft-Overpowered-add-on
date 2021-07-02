@@ -10,7 +10,7 @@ Impact: 3
 Pros:
 When on fire, they deal more damage,
 They are immune to fire,
-They are immune to poison, and hunger effects,
+They are immune to poison and hunger effects,
 They have a far reach,
 They have natural armour,
 They can phase through walls,
