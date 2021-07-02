@@ -36,7 +36,8 @@ They are immune to poison and hunger effects,
 They have a far reach,
 They have natural armour,
 They can phase through walls,
-They have night vision
+They have night vision,
+They have wings
 
 ### Cons:
 They take damage upon contact with water,
