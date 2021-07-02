@@ -3,6 +3,9 @@ An add-on for the Origins Mod. Currently including DragonBorn's. More will be ad
 
 ## How to use this datapack
 
+### First step -
+Dowlnoad Fabric, Fabric API, and the Origins Mod for this to work. 
+
 ### On single player world -
 1. Open minecraft
 2. Click "Singleplayer"
