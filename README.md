@@ -1,4 +1,4 @@
-# Origins-Minecraft-1.17-Mod-add-on
+# Origins-Minecraft-1.17-Mod-Overpowered-add-on
 An add-on for the Origins Mod. Currently including DragonBorn's. More will be added later.
 
 ## How to use this datapack
