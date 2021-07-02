@@ -1,0 +1,25 @@
+{
+    "powers": [
+      "origins:burning_wrath",
+      "origins:fire_immunity",
+      "origins:hotblooded",
+      "origins:water_vulnerability",
+      "origins:flame_particles",
+      "origins:damage_from_snowballs",
+      "origins:damage_from_potions",
+      "origins:carnivore",
+      "origins:elytra",
+      "origins:ender_particles",
+      "origins:extra_reach",
+      "origins:natural_armor",
+      "origins:no_shield",
+      "origins:pumpkin_hate",
+      "origins:phasing",
+      "origins:cat_vision"
+    ],
+    "icon": "minecraft:dragon_breath",
+    "order": 12,
+    "impact": 3,
+    "name": "Dragon Born",
+    "description": "Descendants of the Ender Dragon, Wither, and Phantoms, brothers and sisters of Enderians, Phantoms, and Blazeborns, these creatures are dragon-like and very powerful."
+}
