@@ -1,5 +1,5 @@
 # Origins-Minecraft-Overpowered-add-on
-An add-on for the Origins Mod. Currently including DragonBorn's. More will be added later.
+An add-on for the Origins Mod. Currently including Hybrid's. More will be added later.
 
 ## How to use this datapack
 
@@ -27,8 +27,8 @@ Dowlnoad Fabric, Fabric API, and the Origins Mod for this to work.
 7. Play your server
 
 
-## DragonBorn
-Descendants of the Ender Dragon, Blaze, and Phantom, brothers and sisters of Enderians, Phantoms, and Blazeborns, these creatures are dragon-like and very powerful.
+## Hybrid
+They are a mix of the Ender Dragon, Blaze, Endermen, and Phantoms, brothers and sisters of Enderians, Phantoms, and Blazeborns, these creatures are dragon-like and very powerful.
 
 ### Impact: 3
 
